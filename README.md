@@ -52,3 +52,6 @@ By developing this project, I worked on:
 - Identifying **customer segments** based on demographics and behaviors.  
 - Translating insights into **strategic recommendations** for marketing and sales.  
 - Presenting technical findings in a way that is clear and accessible for stakeholders.
+- 
+
+## Link to [final report](https://github.com/MadrigalPaez/Instacart-Grocery-Basket_Data-Analysis-Project/blob/0f84c7526fd1f4800079bad20bea7a8e885b4948/05%20Sent%20to%20Client/Alvaro%20Madrigal%20-%20Python%20Fundamentals%20for%20Data%20Analysts%20-%20Task%204.10.pdf))
