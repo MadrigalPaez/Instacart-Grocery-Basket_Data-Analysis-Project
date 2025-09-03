@@ -34,11 +34,11 @@ Instacart stakeholders are particularly interested in understanding:
 - **Instacart Customer**: *“I want to receive relevant offers and avoid being spammed with irrelevant ads.”*  
 
 
-## Tools & Methods:  
-- **Python & Pandas** — For data cleaning and exploratory analysis.  
-- **SQL** — To query structured datasets.  
-- **Data Visualization** — To present findings clearly using charts and plots.  
- 
+## Tools & Methods  
+- **Python & Pandas**: For data cleaning and exploratory analysis.  
+- **Excel**: For handling structured datasets and performing additional analysis.  
+- **Data Visualization**: Used **Matplotlib** to present findings clearly with charts and plots.  
+  
 
 ## Learning Goals:
 1. Using data analysis to answer **realistic business questions**.  
