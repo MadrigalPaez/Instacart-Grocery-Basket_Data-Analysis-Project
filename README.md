@@ -7,51 +7,50 @@ Instacart is an **online grocery store** that operates through an app. Although 
 ## Context: 
 Instacart stakeholders are particularly interested in understanding:  
 
-- The **variety of customers** in their database.  
-- The **purchasing behaviors** of these customers.  
-- How to design a **targeted marketing strategy**. 
+· The **variety of customers** in their database.  
+· The **purchasing behaviors** of these customers.  
+· How to design a **targeted marketing strategy**. 
 
 ## Key Business Questions:
-- **Sales & Operations**:  
-  - What are the busiest days of the week and hours of the day (i.e., when are there the most orders)?  
-  - Are there times of day when customers spend the most money?  
+· **Sales & Operations**:  
+  · What are the busiest days of the week and hours of the day (i.e., when are there the most orders)?  
+  · Are there times of day when customers spend the most money?  
 
-- **Marketing & Product Strategy**:  
-  - How can Instacart group products into simpler price ranges for analysis and campaigns?  
-  - Which departments or product types have the highest order frequency?  
+· **Marketing & Product Strategy**:  
+  · How can Instacart group products into simpler price ranges for analysis and campaigns?  
+  · Which departments or product types have the highest order frequency?  
 
-- **Customer Segmentation**: 
-  - What’s the distribution of users based on **brand loyalty** (i.e., how often do they return)?  
-  - Do ordering habits differ by **loyalty status** or **region**?  
-  - Is there a connection between **age**, **family status**, and ordering habits?  
-  - What customer classifications emerge from demographics (e.g., age, income, goods preference, family status)?  
-  - How do customer profiles differ in terms of **order price, frequency, and product selection**?  
+· **Customer Segmentation**: 
+  · What’s the distribution of users based on **brand loyalty** (i.e., how often do they return)?  
+  · Do ordering habits differ by **loyalty status** or **region**?  
+  · Is there a connection between **age**, **family status**, and ordering habits?  
+  · What customer classifications emerge from demographics (e.g., age, income, goods preference, family status)?  
+  · How do customer profiles differ in terms of **order price, frequency, and product selection**?  
 
 
 ## Stakeholders:
-- **Marketing VP**: *“We’re always looking into improving our targeting for ad campaigns.”*  
-- **Senior Sales VP**: *“We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”*  
-- **Instacart Customer**: *“I want to receive relevant offers and avoid being spammed with irrelevant ads.”*  
+· **Marketing VP**: *“We’re always looking into improving our targeting for ad campaigns.”*  
+· **Senior Sales VP**: *“We need to know what part of our offering has the lowest market share and why. Based on this input, we could improve this sector and boost sales.”*  
+· **Instacart Customer**: *“I want to receive relevant offers and avoid being spammed with irrelevant ads.”*  
 
 
 ## Tools & Methods  
-- **Python & Pandas**: For data cleaning and exploratory analysis.  
-- **Excel**: For handling structured datasets and performing additional analysis.  
-- **Data Visualization**: Used **Matplotlib** to present findings clearly with charts and plots.  
+· **Python & Pandas**: For data cleaning and exploratory analysis.  
+· **Excel**: For handling structured datasets and performing additional analysis.  
+· **Data Visualization**: Used **Matplotlib** to present findings clearly with charts and plots.  
   
 
 ## Learning Goals:
-1. Using data analysis to answer **realistic business questions**.  
-2. Exploring relationships between **customer demographics** and **purchase behavior**.  
-3. Practicing data storytelling to bridge the gap between **technical analysis** and **business strategy**.  
+· Using data analysis to answer **realistic business questions**.  
+· Exploring relationships between **customer demographics** and **purchase behavior**.  
+· Practicing data storytelling to bridge the gap between **technical analysis** and **business strategy**.  
 
 
 ## Outcomes:
 By developing this project, I worked on:  
-- Conducting **exploratory data analysis (EDA)**.  
-- Identifying **customer segments** based on demographics and behaviors.  
-- Translating insights into **strategic recommendations** for marketing and sales.  
-- Presenting technical findings in a way that is clear and accessible for stakeholders.
-- 
+· Conducting **exploratory data analysis (EDA)**.  
+· Identifying **customer segments** based on demographics and behaviors.  
+· Translating insights into **strategic recommendations** for marketing and sales.  
+· Presenting technical findings in a way that is clear and accessible for stakeholders.
 
-## Link to [final report](https://github.com/MadrigalPaez/Instacart-Grocery-Basket_Data-Analysis-Project/blob/0f84c7526fd1f4800079bad20bea7a8e885b4948/05%20Sent%20to%20Client/Alvaro%20Madrigal%20-%20Python%20Fundamentals%20for%20Data%20Analysts%20-%20Task%204.10.pdf))
+## *Link to [final report](https://github.com/MadrigalPaez/Instacart-Grocery-Basket_Data-Analysis-Project/blob/0f84c7526fd1f4800079bad20bea7a8e885b4948/05%20Sent%20to%20Client/Alvaro%20Madrigal%20-%20Python%20Fundamentals%20for%20Data%20Analysts%20-%20Task%204.10.pdf))
